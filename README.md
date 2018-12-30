@@ -22,7 +22,7 @@ import SwipePlugin from 'phaser3-swipe-plugin'
   plugins: {
     global: [
       {
-        key: 'RandomNamePlugin',
+        key: 'SwipePlugin',
         plugin: SwipePlugin,
         start: true,
         data: {
