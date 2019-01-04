@@ -13,8 +13,6 @@ const defaultConfig: ConfigInterface = {
   offset: window.innerWidth * .1
 }
 
-// TODO сделать свой starter для typescript
-// TODO выложить плагин для свайпа
 export default class SwipePlugin extends Phaser.Plugins.BasePlugin implements PluginInterface {
   public UP: string = 'up'
   public RIGHT: string = 'right'
