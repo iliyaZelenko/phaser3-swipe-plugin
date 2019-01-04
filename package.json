@@ -1,6 +1,6 @@
 {
   "name": "phaser3-swipe-plugin",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "Mobile swipe plugin for Phaser 3.",
   "main": "./dist/main.bundle.js",
   "keywords": [
@@ -8,8 +8,10 @@
     "Phaser 3",
     "Phaser3",
     "Swipe",
-    "Mobile"
+    "Mobile",
+    "Plugin"
   ],
+  "license": "MIT",
   "scripts": {
     "build": "webpack --mode production"
   },
