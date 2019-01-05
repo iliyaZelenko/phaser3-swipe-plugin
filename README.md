@@ -39,7 +39,7 @@ import SwipePlugin from 'phaser3-swipe-plugin'
 3. Add event listener.
 
 ```js
-game.events.on('swipe', (dir) => {
+game.events.on('swipe', dir => {
   // 'up', 'right', 'down' or 'left'
   console.log(dir)
 })
