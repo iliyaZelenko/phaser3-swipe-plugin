@@ -1,5 +1,7 @@
 ### Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iliyaZelenko/phaser3-swipe-plugin.svg)](https://greenkeeper.io/)
+
 ```bash
 npm i --save phaser3-swipe-plugin
 
